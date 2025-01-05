@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yagiz aka ReritoO</h1>
+<h1 align="center">Hi 👋, I'm ReritoO</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Remake of a discord bot named enchanted**
+- 🔭 I’m currently working on **An rpg discord bot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

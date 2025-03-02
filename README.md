@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ReritoO</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **An rpg discord bot**
+- 🔭 I’m currently not working on anything.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

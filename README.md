@@ -3,10 +3,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.tenor.com/oK9vBgIs_nwAAAAM/tboi-the-binding-of-isaac.gif" width="300" />
+        <img src="https://cdnb.artstation.com/p/assets/images/images/013/713/607/original/guillermo-angel-pineda-isaacgif2.gif?1540823222" width="300" />
       </td>
       <td>
-        <h1 style="color:white;">Nothing here...</h1>
+        <h1 style="color:white;">Why not try <span style="color:#ff4d4d;">WatchAni</span>?</h1>
       </td>
     </tr>
   </table>
